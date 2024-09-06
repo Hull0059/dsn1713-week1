@@ -98,19 +98,19 @@ max-width: 150px;
 }
 
 .card:nth-child(1) {
-  background-color:#F54F95;
+  background-color:#dd79a3;
 }
  
 .card:nth-child(2) {
-  background-color: rgba(208, 133, 133, 0.907);
+  background-color: rgba(195, 136, 91, 0.989);
 }
 
 .card:nth-child(3) {
-  background-color: rgb(179, 165, 40);
+  background-color: rgb(238, 177, 23);
 }
 
 .card:nth-child(4) {
-  background-color: rgb(99, 233, 99);
+  background-color: rgb(80, 216, 180);
 }
 .card{
   border-radius: 20px;
@@ -129,6 +129,11 @@ max-width: 150px;
   padding: 15px 20px;
   text-decoration: none;
   width: fit-content;
+}
+
+.description{
+  text-align: center;
+  padding: 0px 20px;
 }
 
 /* footer styling */
